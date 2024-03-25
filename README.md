@@ -8,8 +8,7 @@
 
 ## 目前支持的域名 Domains Available
 
-wsp.cool
-
+- wsp.cool
 
 ## 规则 Rules
 目前由本人手动添加解析
@@ -48,9 +47,7 @@ CNAME文件没有后缀，只需在里面填写您申请的二级域名即可，
 
 Donation ways:
 
-- Paypal: <paypal.me/wangship>
-- wx: ![wx](/img/wx.jpg)
-- zfb: ![zfb](/img/zfb.jpg)
+- Paypal: [paypal.me/wangship](paypal.me/wangship)
 
 ## 许可证 License
 
